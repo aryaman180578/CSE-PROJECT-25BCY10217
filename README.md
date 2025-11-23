@@ -11,10 +11,8 @@ Features
 • No External Dependencies: Just the standard Python 3 libraries (random and time) are needed.
 Prerequisites You only need to have Python 3 installed in order to use this application.
 # Check the version of Python you are using.
-Python --version
-
-# or Python 3 --version
- Setup and Installation
+Python --version# or Python 3 --version
+Setup and Installation
 There is very little setup because there is only one file in the project.
 1. Download the file or clone the repository:
 2. [https://github.com/your-username/typing-test.git] git clone(https://github.com/typing-test.git/your-username)
@@ -31,8 +29,10 @@ Workflow
 5. In the event that you made a mistake, the program will display an Error Analysis that highlights the mismatched words.
 Formula for WPM Calculation
 The following formula, which approximates a word as five characters, is used by the application to determine the Words Per Minute (WPM):
-$$ \text{WPM} = \frac{(\text{Total Characters} / 5)}{\text{Time Taken in Seconds}} \times 60 $$ Writer
-The developer of this project is Aryaman Singh Chauhan. His registration number is 25BCY10217.
+$$ \text{WPM} = \frac{(\text{Total Characters} / 5)}{\text{Time Taken in Seconds}} \times 60 $$
+Writer
+The developer of this project is Aryaman Singh Chauhan.
+His registration number is 25BCY10217.
 Contributing
 Although this project report submission is finished, comments and recommendations are still welcome! Please feel free to create a pull request or open an issue for features like: 
 • Expanding the text bank with additional sentences.
