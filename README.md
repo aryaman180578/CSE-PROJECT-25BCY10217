@@ -15,7 +15,7 @@ Python --version# or Python 3 --version
 # Setup and Installation
 There is very little setup because there is only one file in the project.
 1. Download the file or clone the repository:
-2. [https://github.com/your-username/typing-test.git] git clone(https://github.com/typing-test.git/your-username)
+2. [https://github.com/aryaman180578/typing-test.git] git clone(https://github.com/typing-test.git/aryaman180578)
 3. CD typing test
 4. Find the Script: Cseprojectaraman.py is the primary application file.
 # Utilization
